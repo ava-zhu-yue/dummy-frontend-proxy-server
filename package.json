@@ -1,0 +1,25 @@
+{
+	"name": "my_mock_server",
+  "type": "commonjs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.ts",
+	"author": "zhuyue",
+	"license": "ISC",
+	"scripts": {
+		"start": "nodemon"
+	},
+	"dependencies": {
+		"@types/cookie-parser": "^1.4.7",
+		"@types/cors": "^2.8.17",
+		"@types/express": "^4.17.21",
+		"@types/node": "^22.5.3",
+		"cookie-parser": "^1.4.6",
+		"cors": "^2.8.5",
+		"express": "^4.19.2",
+		"nodemon": "^3.1.4",
+		"puppeteer": "^23.2.2",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.5.4"
+	}
+}
